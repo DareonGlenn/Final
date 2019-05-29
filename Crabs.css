@@ -1,0 +1,25 @@
+h1{
+    color: black;
+    background-color: red;
+    border: 2px solid black;
+    background-image: url(https://www.louisianacookin.com/wp-content/uploads/2019/03/SYM-Crawfish-Boil.jpg);
+    padding-right: 20%;
+    margin: 5px;
+    font-family: 'Pacifico', cursive;
+}
+
+div{
+    background-color: red;
+    margin: 5px;
+    font-family: 'Amatic SC', cursive;
+}
+
+h2{
+    border: 2px solid black;
+    color: blue;
+}
+
+li{
+    color:black;
+    font-family: fantasy;
+}
